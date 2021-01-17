@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Simple Counter
+
+A counter made with ReactJS. Using Styled Components e Ant Design.
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
